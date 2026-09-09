@@ -1,0 +1,10 @@
+# Only include cannot be handled by URL-matching
+
+DOMAIN-KEYWORD,httpdns
+DOMAIN,dns.weixin.qq.com.cn
+DOMAIN,resolver.dingtalk.com
+DOMAIN,dns.wechat.com
+DOMAIN,paydns.weixin.qq.com
+DOMAIN,dns.weixin.qq.com
+DOMAIN,usdns.wechat.com
+DOMAIN-SUFFIX,alibabadns.com
