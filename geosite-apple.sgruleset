@@ -1,4 +1,4 @@
-# 2026/09/07
+# 2026/09/15
 
 DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,cn-ssl.ls.apple.com
@@ -15,6 +15,8 @@ DOMAIN,a3.mzstatic.com
 DOMAIN,a4.mzstatic.com
 DOMAIN,a5.mzstatic.com
 DOMAIN,adcdownload.apple.com
+DOMAIN,amp-api-edge.apps.apple.com
+DOMAIN,amp-api.apps.apple.com
 DOMAIN,amp-api.media.apple.com
 DOMAIN,api.smoot.apple.cn
 DOMAIN,app-site-association.cdn-apple.com
@@ -22,6 +24,7 @@ DOMAIN,appldnld.apple.com
 DOMAIN,appleid.cdn-apple.com
 DOMAIN,appleintelligencefeedback.care.apple.com
 DOMAIN,apps.mzstatic.com
+DOMAIN,bag.itunes.apple.com
 DOMAIN,cdn-cn1.apple-mapkit.com
 DOMAIN,cdn-cn2.apple-mapkit.com
 DOMAIN,cdn-cn3.apple-mapkit.com
@@ -50,7 +53,6 @@ DOMAIN,devimages-cdn.apple.com
 DOMAIN,devstreaming-cdn.apple.com
 DOMAIN,download.developer.apple.com
 DOMAIN,experiments.apple.com
-DOMAIN,gs-loc-cn.apple.com
 DOMAIN,gs-loc.apple.com
 DOMAIN,gspe21-ssl.ls.apple.com
 DOMAIN,gspe35-ssl.ls.apple.com
@@ -86,6 +88,7 @@ DOMAIN,pba0.apple.com
 DOMAIN,probe.siri.apple.com
 DOMAIN,publicassets.cdn-apple.com
 DOMAIN,s.mzstatic.com
+DOMAIN,sandbox.itunes.apple.com
 DOMAIN,seed-sequoia.siri.apple.com
 DOMAIN,seed-swallow.siri.apple.com
 DOMAIN,seed.siri.apple.com
